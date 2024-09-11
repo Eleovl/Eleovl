@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<<h2 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and plenty of other useful material.<br><br>🌐 Resources and Projects:<br>You can click on this link to gain access to my [GitHub.io](https://Eleovl.github.io/),<br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h2>
+###!--
+<h2 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and plenty of other useful material.<br><br>🌐 Resources and Projects:<br>You can click on this link to gain access to my [GitHub.io](https://Eleovl.github.io/),<br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h2>
 
 ###
 
@@ -57,17 +58,37 @@
   <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
 </div>
 
-###!--
-**Eleovl/Eleovl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+**Cybersecurity Specialist:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Epicode](https://img.shields.io/badge/OperatingSystems-Windows/Linux-informational?style=flat&logo=kalilinux&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/VulnerabilityAssessment-PenetrationTesting-informational?style=flat&logo=openaccess&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/Networking-NetworkConfiguration-informational?style=flat&logo=enpass&logoColor=white&color=6aa6f8)
+![Blockchain](https://img.shields.io/badge/Blockchain-Bitcoin-informational?style=flat&logo=bitcoin&logoColor=white&color=6aa6f8)
+
+**Red Team:**
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![eccouncil](https://img.shields.io/badge/Human-SocialEngineering-informational?style=flat&logo=ecocouncil&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=burpsuite&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/Jr.Pentester-Metasploit-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![Coding](https://img.shields.io/badge/Scripting-Powershell&Bash-informational?style=flat&logo=gnubash&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/WebFundamentals-SQLi-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/WebFundamentals-XSS-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+![TryHackMe](https://img.shields.io/badge/Jr.Pentester-PrivilegeEscalation-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
+
+**Blue Team:**
+
+![Cisco](https://img.shields.io/badge/NetworkDefense-Firewall-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-Hardening-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-SecurityControls-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/NetworkDefense-IncidentResponse-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Cisco](https://img.shields.io/badge/RiskManagement-RiskAssessment-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-DigitalForensics-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-VulnerabilityManagement-informational?style=flat&logo=cisco&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-ThreatHunting-informational?style=flat&logo=keepassxc&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-Wireshark-informational?style=flat&logo=wireshark&logoColor=white&color=6aa6f8)
+![Epicode](https://img.shields.io/badge/BlueTeam-Reporting&Analysis-informational?style=flat&logo=bookstack&logoColor=white&color=6aa6f8)
