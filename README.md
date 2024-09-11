@@ -4,17 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+Eleonora%2C+ an+aspiring+Ethical+Hacker+%E2%9C%A9" width="70%" />
 
-
 <br><br>
-
+<pre> 
 👋 Welcome to my GitHub! Here you'll find my projects, hands-on tutorials, and other useful material.
  
-🌐 Resources and Projects: you can click on this link to gain access to [Github.io](https://eleovl.github.io/),
+🌐 Resources and Projects: you can click on this link to gain access to:
+</pre> 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eleovl/github.io/)
+
+<pre>
 in case of problems feel free to contact me in the social networks, you can find below. 
 
 Feel free to explore and contribute!
-
+</pre>
 <br><br>
+
 
 ###
  
