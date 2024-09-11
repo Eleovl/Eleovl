@@ -40,7 +40,7 @@ Feel free to explore and contribute!
   
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/eleonoraviola)
 [![](https://img.shields.io/badge/tryhackme-FF6364?logo=tryhackme)](https://tryhackme.com/r/p/eleon.viola)
-[![](https://img.shields.io/badge/tutorials-ff66ab?logo=github)](https://Eleovl.github.io/)
+[![](https://img.shields.io/badge/portfolio-ff66ab?logo=github)](https://Eleovl.github.io/)
 [![](https://img.shields.io/badge/hackthebox-F5F5DC?logo=hackthebox)](https://app.hackthebox.com/profile/overview)
 </div>
 
