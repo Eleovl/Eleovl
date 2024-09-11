@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://media.tenor.com/UQmqIejS4vkAAAAi/nifty-league-nifty-smashers.gif"  />
 
-<h2 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and plenty of other useful material.<br><br>🌐 Resources and Projects:<br>You can click on this link to gain access to my [GitHub.io](https://Eleovl.github.io/),<br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h2>
+<h2 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and plenty of other useful material.<br><br>🌐 Resources and Projects:<br>You can click on this link to gain access to my [GitHub.io](https://Eleovl.github.io)/,<br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<div align="left">
+<div>
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/eleonoraviola)
 [![](https://img.shields.io/badge/tryhackme-FF6364?logo=tryhackme)](https://tryhackme.com/r/p/eleon.viola)
 [![](https://img.shields.io/badge/tutorials-ff66ab?logo=github)](https://Eleovl.github.io/)
