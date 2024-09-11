@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-<div align= "left">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Eleonora%2C+ an+aspiring+Ethical+Hacker+%E2%9C%A9" width="70%" />
-<img align="right" height="250" src="https://media1.tenor.com/m/eFWg68USeZgAAAAd/computer-hacker-fallout.gif"  /> 
-</div>
+
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=I'm+Eleonora%2C+ an+aspiring+Ethical+Hacker+%E2%9C%A9" width="70%" />
+
+
 <br><br>
 <pre>
 👋 Welcome to my GitHub! Here you'll find my projects, hands-on tutorials, and other useful material.
