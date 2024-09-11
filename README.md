@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-###!--
+<img align="right" height="150" src="https://media.tenor.com/UQmqIejS4vkAAAAi/nifty-league-nifty-smashers.gif"  />
+
 <h2 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and plenty of other useful material.<br><br>🌐 Resources and Projects:<br>You can click on this link to gain access to my [GitHub.io](https://Eleovl.github.io/),<br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h2>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/UQmqIejS4vkAAAAi/nifty-league-nifty-smashers.gif"  />
+<img align="right" height="150" src="https://media.tenor.com/wUAhPYKgRCUAAAAi/alien-space.gif"  />
 
 ###
 
@@ -52,10 +53,10 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+[![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/eleonoraviola)
+[![](https://img.shields.io/badge/tryhackme-FF6364?logo=tryhackme)](https://tryhackme.com/r/p/eleon.viola)
+[![](https://img.shields.io/badge/tutorials-ff66ab?logo=github)](https://Eleovl.github.io/)
+[![](https://img.shields.io/badge/hackthebox-F5F5DC?logo=hackthebox)](https://app.hackthebox.com/profile/overview)
 </div>
 
 ###
