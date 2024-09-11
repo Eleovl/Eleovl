@@ -10,7 +10,7 @@
  
 🌐 Resources and Projects: you can click on this link to gain access to:
 </pre> 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eleovl/github.io/)
+[![GitHub.io](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eleovl.github.io/)
 
 <pre>
 in case of problems feel free to contact me in the social networks, you can find below. 
