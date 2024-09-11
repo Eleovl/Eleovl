@@ -6,14 +6,14 @@
 
 
 <br><br>
-<pre>
-👋 Welcome to my GitHub! Here you'll find my projects, hands-on tutorials, and other useful material.
 
-🌐 Resources and Projects: You can click on this link to gain access to [Github.io](https://eleovl.github.io),
+👋 Welcome to my GitHub! Here you'll find my projects, hands-on tutorials, and other useful material.
+ 
+🌐 Resources and Projects: you can click on this link to gain access to [Github.io](https://eleovl.github.io/),
 in case of problems feel free to contact me in the social networks, you can find below. 
 
 Feel free to explore and contribute!
-</pre>
+
 <br><br>
 
 ###
@@ -59,8 +59,6 @@ Feel free to explore and contribute!
 
 **Red Team:**
 
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-OWASP-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/WebFundamentals-BurpSuite-informational?style=flat&logo=burpsuite&logoColor=white&color=6aa6f8)
 ![TryHackMe](https://img.shields.io/badge/Jr.Pentester-Metasploit-informational?style=flat&logo=tryhackme&logoColor=white&color=6aa6f8)
