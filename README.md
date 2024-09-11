@@ -2,11 +2,13 @@
 
 <img align="right" height="150" src="https://media.tenor.com/UQmqIejS4vkAAAAi/nifty-league-nifty-smashers.gif"  />
 
-<h3 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and plenty of other useful material.<br><br>🌐 Resources and Projects:<br>You can click on this link to gain access to my [GitHub.io](https://Eleovl.github.io),</br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello!;I'm+Eleonora%2C+ an+aspiring+Ethical+Hacker+%E2%9C%A9" width="70%" />
+
+<h3 align="left">👋 Welcome to my GitHub!<br>Here you'll find my projects, hands-on tutorials, and other useful material.<br><br>🌐 Resources and Projects:<br> You can click on this link to gain access to my [GitHub.io](https://eleovl.github.io/), </br>in case of problems feel free to contact me on the social networks <br>which you find below.<br><br>Feel free to explore and contribute!</h3>
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/wUAhPYKgRCUAAAAi/alien-space.gif"  />
+<img align="left" height="250" src="https://media.tenor.com/wUAhPYKgRCUAAAAi/alien-space.gif"  />
 
 ###
 
@@ -52,7 +54,8 @@
 
 ###
 
-<<div align="center">
+<div align="center">
+  
 [![](https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin)](http://linkedin.com/in/eleonoraviola)
 [![](https://img.shields.io/badge/tryhackme-FF6364?logo=tryhackme)](https://tryhackme.com/r/p/eleon.viola)
 [![](https://img.shields.io/badge/tutorials-ff66ab?logo=github)](https://Eleovl.github.io/)
