@@ -23,7 +23,7 @@ Feel free to explore and contribute!
 ###
 
 <div align="center">
-  <img src="https://toppng.com/public/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png" height="30" alt="kali logo"  />
+  <img src="https://img.icons8.com/?size=256&id=qBWtR72kluCU&format=png" height="30" alt="kali logo"  />
   <img width="12" />
   <img src="https://incitrio.com/wp-content/uploads/2015/01/Apple_gray_logo.png" height="30" alt="apple logo"  />
   <img width="12" />
